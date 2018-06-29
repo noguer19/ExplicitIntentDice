@@ -2,4 +2,5 @@
     <string name="app_name">Explicit Intent Dice</string>
     <string name="rollBtnText">ROLL DICE</string>
     <string name="title_dice">RESULT</string>
+    <string name="doneBtnText">DONE!</string>
 </resources>
